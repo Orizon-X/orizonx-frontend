@@ -36,9 +36,15 @@ O compromisso é com o aprendizado contínuo, a exploração de novas tecnologia
 - [ ] Otimização de performance e SEO
 <!-- Futuros updates conforme o projeto avança -->
 
-
 ## <a id="tecnologias-utilizadas">2. Tecnologias Utilizadas</a>
 <!-- Adicionar uma lista das ferramentas, bibliotecas e frameworks adotados no projeto. -->
+> 🛠️ *As tecnologias utilizadas no projeto serão listadas aqui conforme o **desenvolvimento avança**.*
+
+- **`Next.js`**: Framework React para a criação do frontend.
+- **`React`**: Biblioteca para construção da interface.
+- **`Tailwind CSS`**: Utilizado para estilização rápida e customizável.
+- **`TypeScript`**: Superset do JavaScript com tipagem estática.
+- **`ESLint & Prettier`**: Ferramentas de qualidade e formatação de código.
 
 ## <a id="instalacao-e-execucao-local">3. Instalação e Execução Local</a> 
 <!-- Adicionar as instruções para configuração do ambiente local e execução do projeto. -->
