@@ -98,6 +98,9 @@ npm run dev
 
 ## <a id="licenca">5. Licença</a> 
 <!-- Informar sobre o tipo de licença que será adotado para o projeto, quando definido. -->
+> 📄 *A licença deste projeto ainda **não foi definida**.*
+
+Assim que a aplicação atingir uma etapa mais avançada de desenvolvimento, será adotada uma licença compatível com os objetivos da equipe e da Orizonx.
 
 ## <a id="equipe-de-desenvolvimento">6. Equipe de Desenvolvimento</a>
 <!-- Listar os membros da equipe, suas funções e links para redes sociais, caso aplicável. -->
