@@ -73,6 +73,28 @@ npm run dev
 
 ## <a id="arquitetura-do-projeto">4. Arquitetura do Projeto</a> 
 <!-- Descrever a estrutura de pastas e decisões arquiteturais tomadas para o desenvolvimento do projeto. -->
+> 📂 *A arquitetura do projeto está sendo definida à medida que o desenvolvimento avança. Abaixo, está um esboço inicial da estrutura de pastas e das principais decisões arquiteturais.*
+
+```bash
+📂 orizonx-frontend/
+├── 📂 public/                  
+│   └── 📂 assets/              # Imagens, fontes, ícones e outros arquivos estáticos         
+├── 📂 src/                     
+│   ├── 📂 app/                 # Páginas e layouts com Server Components
+│   ├── 📂 components/          # Componentes compartilhados UI
+│   ├── 📂 hooks/               # Hooks customizados
+│   ├── 📂 lib/                 # Lógica de negócio e helpers
+│   ├── 📂 services/            # APIs e serviços externos
+│   ├── 📂 utils/               # Utilitários gerais
+│   ├── 📂 styles/              # Estilos globais e específicos
+│   ├── 📂 types/               # Tipos e interfaces
+│   └── 📂 constants/           # Configurações reutilizáveis
+├── 📃 .env                     # Variáveis de ambiente
+├── 📃 .eslintrc.js             # Configurações do ESLint
+├── 📃 .prettierrc.js           # Configurações do Prettier
+├── 📃 tsconfig.json            # Configurações do TypeScript
+└── 📃 package.json             # Dependências e scripts do projeto
+```
 
 ## <a id="licenca">5. Licença</a> 
 <!-- Informar sobre o tipo de licença que será adotado para o projeto, quando definido. -->
