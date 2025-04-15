@@ -20,6 +20,22 @@ O compromisso é com o aprendizado contínuo, a exploração de novas tecnologia
 
 ## <a id="status-do-projeto">1. Status do Projeto</a>
 <!-- Adicionar o status e progresso do projeto aqui, como badges de CI/CD ou informações de build. -->
+> 🚧 _**Status:** Em desenvolvimento. A estrutura do frontend está sendo planejada e implementada progressivamente._
+
+- **Build**  `⏳*Pendente*`
+- **Integração Contínua (CI)**  `⚙️Não implementada`
+
+### Etapas atuais:
+- [x] Criação do repositório  
+- [x] Inicialização de uma documentação (`README.md`)  
+- [ ] Estruturação inicial com **Next.js** e **TypeScript**  
+- [ ] Configuração do ambiente (**ESLint**, **Prettier**)  
+- [ ] Configuração de **CI/CD**  
+- [ ] Definição das páginas e rotas
+- [ ] Implementação responsiva  
+- [ ] Otimização de performance e SEO
+<!-- Futuros updates conforme o projeto avança -->
+
 
 ## <a id="tecnologias-utilizadas">2. Tecnologias Utilizadas</a>
 <!-- Adicionar uma lista das ferramentas, bibliotecas e frameworks adotados no projeto. -->
