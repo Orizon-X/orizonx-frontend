@@ -48,6 +48,28 @@ O compromisso é com o aprendizado contínuo, a exploração de novas tecnologia
 
 ## <a id="instalacao-e-execucao-local">3. Instalação e Execução Local</a> 
 <!-- Adicionar as instruções para configuração do ambiente local e execução do projeto. -->
+> 💡 *Esta seção será atualizada conforme a estrutura do projeto evolui. As instruções abaixo servem como base para configuração inicial.*
+
+### Pré-requisitos
+[`Node.js 18.x^`](https://nodejs.org/) 
+[`npm`](https://www.npmjs.com/)
+[`Git`](https://git-scm.com/downloads)
+
+### Instalação
+
+```bash
+# Clone o repositório
+git clone https://github.com/Orizon-X/orizonx-frontend.git
+
+# Acesse o diretório do projeto
+cd orizonx-frontend
+
+# Instale as dependências
+npm install
+
+# Rode o servidor de desenvolvimento
+npm run dev
+```
 
 ## <a id="arquitetura-do-projeto">4. Arquitetura do Projeto</a> 
 <!-- Descrever a estrutura de pastas e decisões arquiteturais tomadas para o desenvolvimento do projeto. -->
