@@ -104,3 +104,53 @@ Assim que a aplicação atingir uma etapa mais avançada de desenvolvimento, ser
 
 ## <a id="equipe-de-desenvolvimento">6. Equipe de Desenvolvimento</a>
 <!-- Listar os membros da equipe, suas funções e links para redes sociais, caso aplicável. -->
+> *Projeto idealizado e desenvolvido pela equipe da Orizonx!*
+
+<table >
+  <tr>
+    <td align="center">
+      <img src="https://github.com/caiqueortega.png?size=100" width="100">
+    </td>
+    <td>
+      <strong>Caique Ortega</strong><br />
+      <i>Tech Lead & Full Stack</i><br />
+    </td>
+    <td align="center">
+      <i>
+        Co-founder & CEO<br />
+        <strong>at Orizonx</strong>
+      </i>
+    </td>
+    <td>
+      <a href="https://github.com/caiqueortega">
+        <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+      </a><br>
+      <a href="https://www.linkedin.com/in/caiqueortega">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/marcosrisson.png?size=100" width="100">
+    </td>
+    <td>
+      <strong>Marcos Risson</strong><br />
+      <i>Front-End Developer</i><br />
+    </td>
+    <td align="center">
+      <i>
+        Co-founder & CTO<br />
+        <strong>at Orizonx</strong>
+      </i>
+    </td>
+    <td>
+      <a href="https://github.com/marcosrisson">
+        <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+      </a><br>
+      <a href="https://www.linkedin.com/in/marcosrisson">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
