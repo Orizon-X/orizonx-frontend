@@ -8,21 +8,30 @@ O compromisso é com o aprendizado contínuo, a exploração de novas tecnologia
 
 ## Índice
 <!-- Adicionar links para as seções do README conforme o projeto avança. -->
+| Seção                                                  | Descrição                                                   |
+|--------------------------------------------------------|-------------------------------------------------------------|
+| [1. Status do Projeto](#status-do-projeto)             | Etapas atuais e progresso do desenvolvimento                |
+| [2. Tecnologias Utilizadas](#tecnologias-utilizadas)   | Stack de ferramentas e bibliotecas usadas no projeto        |
+| [3. Instalação e Execução Local](#instalacao-e-execucao-local) | Instruções para configurar o ambiente local e rodar o projeto |
+| [4. Arquitetura do Projeto](#arquitetura-do-projeto)    | Estrutura do projeto e decisões arquiteturais               |
+| [5. Licença](#licenca)                                 | Informações sobre direitos de uso e distribuição            |
+| [6. Equipe de Desenvolvimento](#equipe-de-desenvolvimento) | Informações sobre os membros responsáveis pelo projeto    |
 
-## Status do Projeto
+
+## <a id="status-do-projeto">1. Status do Projeto</a>
 <!-- Adicionar o status e progresso do projeto aqui, como badges de CI/CD ou informações de build. -->
 
-## Tecnologias Utilizadas
+## <a id="tecnologias-utilizadas">2. Tecnologias Utilizadas</a>
 <!-- Adicionar uma lista das ferramentas, bibliotecas e frameworks adotados no projeto. -->
 
-## Instalação e Execução Local
+## <a id="instalacao-e-execucao-local">3. Instalação e Execução Local</a> 
 <!-- Adicionar as instruções para configuração do ambiente local e execução do projeto. -->
 
-## Arquitetura do Projeto
+## <a id="arquitetura-do-projeto">4. Arquitetura do Projeto</a> 
 <!-- Descrever a estrutura de pastas e decisões arquiteturais tomadas para o desenvolvimento do projeto. -->
 
-## Licença
+## <a id="licenca">5. Licença</a> 
 <!-- Informar sobre o tipo de licença que será adotado para o projeto, quando definido. -->
 
-## Equipe de Desenvolvimento
+## <a id="equipe-de-desenvolvimento">6. Equipe de Desenvolvimento</a>
 <!-- Listar os membros da equipe, suas funções e links para redes sociais, caso aplicável. -->
